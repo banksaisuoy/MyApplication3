@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="welcome_title">Welcome to My App</string>
+    <string name="welcome_subtitle">Auto-mocked data below:</string>
+    <string name="mock_item_1">Mock Item 1</string>
+    <string name="mock_item_2">Mock Item 2</string>
+    <string name="mock_item_3">Mock Item 3</string>
+    <string name="refresh_button_text">Refresh Data</string>
+    <string name="refresh_success">Mock data refreshed successfully!</string>
 </resources>
